@@ -6,7 +6,7 @@
   
   <img align="right" width="90px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif"> 
   
-  - 🔭 &nbsp; ⇢  &nbsp; Self-taught Software developer from India 🇮🇳
+  - 🔭 &nbsp; ⇢  &nbsp; Community-Taught(**[100Devs](https://leonnoel.com/100devs/)**) Software developer from India 🇮🇳
 - 📋 &nbsp; ⇢  &nbsp;  I love writing  Java, [Blogs](https://hashnode.com/@devkoli), & building fun experiments on type-level 
 - 🤝 &nbsp; ⇢  &nbsp; 2023 Goals: learn about Web3, AI, ML and more techy Stuff... 
 - 🙋🏽‍♂️ &nbsp; ⇢  &nbsp; Ask me anything [here](https://github.com/devanshukoli/devanshukoli/pulls) `OR` [Email me](devanshukoli2@gmail.com).
