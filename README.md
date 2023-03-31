@@ -7,8 +7,8 @@
   <img align="right" width="90px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif"> 
   
   - 🔭 &nbsp; ⇢  &nbsp; Community-Taught(**[100Devs](https://leonnoel.com/100devs/)**) Software developer from India 🇮🇳
-- 📋 &nbsp; ⇢  &nbsp;  I love writing  Java, [Blogs](https://hashnode.com/@devkoli), & building fun experiments on type-level 
-- 🤝 &nbsp; ⇢  &nbsp; 2023 Goals: learn about Web3, AI, ML and more techy Stuff... 
+- 📋 &nbsp; ⇢  &nbsp;  I love experimenting with **JavaScript**, [Blogs](https://hashnode.com/@devkoli), & building projects as well.
+- 🤝 &nbsp; ⇢  &nbsp; 2023 Goals: **Consistency**, **Learn Js**, **Experiments with AI**, **Stay fit and Healthy.**
 - 🙋🏽‍♂️ &nbsp; ⇢  &nbsp; Ask me anything [here](https://github.com/devanshukoli/devanshukoli/pulls) `OR` [Email me](devanshukoli2@gmail.com).
 
 <br>
