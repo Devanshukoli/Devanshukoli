@@ -1,4 +1,4 @@
-<pre> Hey, How are you?.😁👋</pre>
+<pre> Hey, Thanks for dropping by.😁👋</pre>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=30&pause=1000&width=435&lines=Nice!+To+Meet+You+All~" alt="Typing SVG" /></a>
