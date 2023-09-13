@@ -18,13 +18,13 @@
 ### Let's Connect✌️
 
 <a href="https://twitter.com/Devashukoli">
-<img align="left" alt="Devanshukoli | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" title="Follow me on Twitter" /></a>
+<img align="left" alt="Devanshukoli | Twitter" width="30px" src='https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0-1-600x600.jpg' title="Follow me on Twitter" /></a>
 
 <a href ="https://hashnode.com/@devkoli">
 <img align="left" alt="Devanshukoli | hashnode" width="30px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" title="Read my articles on hashnode" /></a>
 
 <a href="https://www.linkedin.com/in/devanshu-koli-a6028a22a/">
-<img align="left" alt=" Devanshukoli | LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" title="Connect with me on LinkedIn" /></a>
+<img align="left" alt=" Devanshukoli | LinkedIn" width="30px" src="https://img.freepik.com/premium-vector/square-linkedin-logo-isolated-white-background_469489-892.jpg?w=2000" title="Connect with me on LinkedIn" /></a>
 
 <br>
 <br>
