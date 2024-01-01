@@ -8,7 +8,7 @@
   
   - 🔭 &nbsp; ⇢  &nbsp; Community-Taught(**[100Devs](https://leonnoel.com/100devs/)**) Software developer from India 🇮🇳
 - 📋 &nbsp; ⇢  &nbsp;  I love experimenting with **JavaScript**, [Blogs](https://hashnode.com/@devkoli), & building projects as well.
-- 🤝 &nbsp; ⇢  &nbsp; 2023 Goals: **Consistency**, **Learn Js**, **Experiments with AI**, **Stay fit and Healthy.**
+- 🤝 &nbsp; ⇢  &nbsp; 2024 Goals: **Consistency**, **Stay fit and Healthy.**, **Want to have 1000+ contributions this year**.
 - 🙋🏽‍♂️ &nbsp; ⇢  &nbsp; Let's have a **Chat** `OR` **Discussion** [here](https://github.com/devanshukoli/devanshukoli/pulls) `OR` [Email me](devanshukoli2@gmail.com).
 
 <br>
