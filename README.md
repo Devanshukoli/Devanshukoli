@@ -31,3 +31,6 @@
 
 # My Dailydotdev card 
 <a href="https://app.daily.dev/devanshu"><img src="https://api.daily.dev/devcards/v2/sQSdDxJKW8y8UgMkoQD75.png?type=default&r=ndh" width="356" alt="Devanshu koli's Dev Card"/></a>
+
+# Here are my github stats ( Trophy! )
+[![trophy](https://github-profile-trophy.vercel.app/?username=Devanshukoli&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
