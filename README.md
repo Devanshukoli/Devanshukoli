@@ -2,9 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=30&pause=1000&width=435&lines=Nice!+To+Meet+You+All~" alt="Typing SVG" /></a>
-  </h1>
-  
-  <img align="right" width="90px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif"> 
+  </h1> 
   
   - 🔭 &nbsp; ⇢  &nbsp; Community-Taught(**[100Devs](https://leonnoel.com/100devs/)**) Software developer from India 🇮🇳
 - 📋 &nbsp; ⇢  &nbsp;  I love experimenting with **JavaScript**, [Blogs](https://hashnode.com/@devkoli), & building projects as well.
