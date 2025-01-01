@@ -2,14 +2,12 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=30&pause=1000&width=435&lines=Nice!+To+Meet+You+All~" alt="Typing SVG" /></a>
-  </h1> 
-  
-  - 🔭 &nbsp; ⇢  &nbsp; Community-Taught(**[100Devs](https://leonnoel.com/100devs/)**) Software developer from India 🇮🇳
-- 📋 &nbsp; ⇢  &nbsp;  I love experimenting with **JavaScript**, [Blogs](https://hashnode.com/@devkoli), & building projects as well.
-- 💪 &nbsp; ⇢  &nbsp; 2024 Goals: **Consistency**, **Stay fit and Healthy.**, **Want to have 1000+ contributions this year**.
-- 🙋🏽‍♂️ &nbsp; ⇢  &nbsp; Let's have a **Chat** `OR` **Discussion** [here](https://github.com/devanshukoli/devanshukoli/pulls) `OR` [Email me](devanshukoli2@gmail.com).
+</h1> 
 
-<br>
+# 2025 Goals
+- Stay Fit and Become Bulky. 💪
+- Read Books.
+- Commit to Github **Everyday**. Consistency 🔥
 
 <a href="https://www.buymeacoffee.com/devanshukoli" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
