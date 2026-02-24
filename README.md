@@ -95,14 +95,13 @@ I aim to contribute wherever I can and continue learning in public.
 
 ## 📫 Let’s Connect
 
-- GitHub: https://github.com/Devanshukoli  
 - LinkedIn: https://www.linkedin.com/in/devanshukoli/  
-- Twitter: https://twitter.com/Devashukoli  
+- Twitter: https://twitter.com/Devanshukoli
 
 ---
 
 ## 🏆 GitHub Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=Devanshukoli&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
