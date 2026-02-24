@@ -1,49 +1,112 @@
-<pre> Hey, Thanks for dropping by.😁👋</pre>
+<p align="center">Hey — thanks for dropping by 👋</p>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=30&pause=1000&width=435&lines=Nice!+To+Meet+You+All~" alt="Typing SVG" /></a>
-</h1> 
+<h1 align="center">Devanshu Koli — Backend Engineer who builds intelligent systems</h1>
 
-# Things I *Code* With
-<p>
-  
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<p align="center">
+Problem solver. Backend-first thinker. AI explorer.
 </p>
 
-<a href="https://www.buymeacoffee.com/devanshukoli" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+---
 
-### Let's Connect 🤝
+## 🚀 About Me
 
-<a href="https://twitter.com/Devashukoli">
-<img align="left" alt="Devanshukoli | Twitter" width="30px" src='https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0-1-600x600.jpg' title="Follow me on Twitter" /></a>
+I love solving problems — technical, architectural, ambiguous, messy — doesn’t matter.  
+Give me unclear requirements, production bugs, scaling issues, or a half-broken repo. I’ll break it down, systemize it, and ship something clean.
 
-<a href ="https://hashnode.com/@devkoli">
-<img align="left" alt="Devanshukoli | hashnode" width="30px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" title="Read my articles on hashnode" /></a>
+I built my foundation in **Node.js and backend engineering**.  
+Now I’m transitioning into building **AI-powered systems** — not just using APIs, but understanding how intelligent systems work end-to-end.
 
-<a href="https://www.linkedin.com/in/devanshu-koli-a6028a22a/">
-<img align="left" alt=" Devanshukoli | LinkedIn" width="30px" src="https://img.freepik.com/premium-vector/square-linkedin-logo-isolated-white-background_469489-892.jpg?w=2000" title="Connect with me on LinkedIn" /></a>
+Open-source shaped my learning journey. I owe a lot to it — and I actively try to give back.
 
-<br>
-<br>
+---
 
-# My Dailydotdev card 😁
-<a href="https://app.daily.dev/devanshu"><img src="https://api.daily.dev/devcards/v2/sQSdDxJKW8y8UgMkoQD75.png?type=default&r=ndh" width="356" alt="Devanshu koli's Dev Card"/></a>
+## 🎯 Currently
 
-# My Roadmap.sh Card ✌️
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/644fa50be2725773749ba2b7?variant=dark&roadmaps=nodejs%2Cfrontend%2Cbackend%2Cjavascript" alt="roadmap.sh"/></a>
+- 🔎 Actively looking for:  
+  **Node.js Developer | Backend Engineer | MERN Stack Developer | AI-focused Backend Roles**
 
-# Here are my github stats ( Trophy! )
+- 📚 Transitioning toward:  
+  **AI Engineer (LLMs, RAG systems, applied ML, intelligent backend services)**
+
+---
+
+## 🧠 What I Actually Do
+
+### Backend Engineering
+- Design REST APIs with clean architecture principles
+- Authentication (JWT, session strategies)
+- Database design (MongoDB schemas, indexing strategy)
+- Error handling & logging that actually helps debugging
+- CI/CD + Dockerized deployments
+- Writing code that another engineer won’t hate reading
+
+### AI / Intelligent Systems (Growing Focus)
+- Building LLM-powered features
+- Experimenting with RAG pipelines
+- Prompt engineering with evaluation mindset
+- Integrating AI into backend services (not just demos — usable features)
+- Exploring model serving and inference workflows
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+</p>
+
+---
+
+## 🔬 How I Approach Problems
+
+1. Understand the business impact first.
+2. Break the problem into smallest testable pieces.
+3. Build incrementally.
+4. Add logging + monitoring early.
+5. Refactor once clarity emerges.
+
+I prefer **simple, observable systems** over clever but fragile ones.
+
+---
+
+## 🤝 What You’ll Get If We Work Together
+
+- Someone who asks good questions before coding.
+- Someone who reads documentation before blaming the framework.
+- Someone who enjoys debugging more than complaining.
+- Someone who wants to grow into building AI-native systems — not just CRUD apps.
+
+---
+
+## 🌍 Open Source
+
+I’ve learned more from open-source than from any course.  
+Reading real-world code, understanding tradeoffs, seeing how experienced engineers structure systems — that’s priceless.
+
+I aim to contribute wherever I can and continue learning in public.
+
+---
+
+## 📫 Let’s Connect
+
+- GitHub: https://github.com/Devanshukoli  
+- LinkedIn: https://www.linkedin.com/in/devanshukoli/  
+- Twitter: https://twitter.com/Devashukoli  
+
+---
+
+## 🏆 GitHub Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=Devanshukoli&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+> I don’t just want to build software.  
+> I want to build systems that think, assist, and scale.
+
+If you're building something meaningful — especially with AI in production — let's talk.
