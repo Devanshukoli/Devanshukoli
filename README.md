@@ -100,7 +100,7 @@ Reading real production code taught me more about tradeoffs and system structure
 
 ## 🏆 GitHub Stats
 
-[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=Devanshukoli&theme=onedark)](https://github.com/Devanshukoli)
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=devanshukoli&theme=dark)](https://github.com/Devanshukoli)
 
 ---
 
