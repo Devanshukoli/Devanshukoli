@@ -27,7 +27,7 @@ Open-source is where most of my real learning happened, and I try to give back w
 
 ## 🧩 Featured Projects
 
-### [InterviewLab](https://github.com/Devanshukoli/InterviewLab) — AI-Powered Technical Interview Simulator
+### [InterviewLab](https://github.com/Devanshukoli/InterviewLab) — AI-Powered Technical Interview Platform
 Multi-agent pipeline (resume parsing → JD analysis → gap detection → question generation → evaluation → coaching) orchestrating Gemini, OpenAI, and Anthropic SDKs behind an Express + TypeScript backend. Full OpenTelemetry tracing across every agent span, Supabase Postgres with Row-Level Security, JWT + 2FA/TOTP auth.
 
 ### [SkillBridge](https://github.com/Devanshukoli/skillbridge) — Full-Stack Learning & Mentorship Platform
